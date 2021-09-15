@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  What is the complementary colour of purple ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Yellowish green",
+        "b": "Bluish yellow",
+        "c": "Green",
+        "d": "Blue"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  Tertiary amines react with ninhydrin to produce purple colour: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3. Is Ninhydrin a reducing agent or an oxidizing agent ?",
+      "answers": {
+        "a": "Reducing agent",
+        "b": "Oxidizing agent",
+        "c": "Both",
+        "d": "None of the above"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  What are the two basic reactions accompanying the formation of hydridantin ?",
+        "answers": {
+          "a": "Deamination & Decarboxylation",
+          "b": "Transamination & carboxylation",
+          "c": "Oxidation & reduction",
+          "d": "None of the above"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }

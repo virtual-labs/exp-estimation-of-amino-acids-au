@@ -1,1 +1,4 @@
-### Aim of the experiment
+### Objective: 
+ 
+
+To quantify the amount of amino acids by using ninhydrin reaction.
