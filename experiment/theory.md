@@ -118,11 +118,15 @@ The Beer-Lambert Law states that the amount of light absorbed is proportional to
   &nbsp;
 
 
-Absorbance, A= ε x c x l   c = concentration of the sample (in Moles/liter),
+Absorbance, A= ε x c x l  
 
- &nbsp;
+&nbsp;
 
-l = length of the light path through the solution (in cm) and ε = molar extinction coefficient 
+c = concentration of the sample (in Moles/liter),
+
+l = length of the light path through the solution (in cm) 
+
+ε = molar extinction coefficient 
 
   &nbsp;
 
