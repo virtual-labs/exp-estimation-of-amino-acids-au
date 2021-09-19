@@ -72,12 +72,12 @@ The overall reaction can be written as follows:
 
 Primary amines also react with ninhydrin, but do not liberate of CO2. [ Caution : Ninhydrin is a very reactive oxidizing agent, so should be handled with care].
 
- &nbsp;
+&nbsp;
 
 
 Several other convenient reagents are available which can react with the alpha amino group to form colored or fluorescent derivatives. These include fluorescamine, dansyl chloride, dabsyl chloride, etc., used in the detection of trace amounts of amino acids at the nanogram level.
 
- &nbsp;
+&nbsp;
 
 
 In the quantitative estimation of amino acid using Ninhydrin reagent, the absorbance of the Ruhemann's purple formed by the reaction at 570nm is measured. For imino acids, the absorbtion happens at 440nm. The principle behind the colorimetric estimation is given below:
@@ -94,20 +94,21 @@ In the quantitative estimation of amino acid using Ninhydrin reagent, the absorb
 
 Unknown compounds may be identified by their characteristic absorption spectra in the ultraviolet, visible or infrared regions. Enzyme-catalysed reactions frequently can be followed by measuring spectrophotometrically the appearance of a product or disappearance of a substrate. A spectrophotometer /colorimeter is an instrument for measuring the absorbance of a solution by measuring the amount of light of a given wavelength that is transmitted by a sample.  
 
- &nbsp;
+&nbsp;
 
 
 ### Light and Spectrum profile:
  
 
- Light can be categorized according to its wavelength. Figure 1 shows the relationship between the wavelength of light and the common types of electromagnetic radiation. Light in the short wavelengths of 200 to 400 nm is referred to as ultraviolet (UV). Light in the longer wavelengths of 700 to 900 nm is referred to as near infrared (near IR).  
+Light can be categorized according to its wavelength. Figure 1 shows the relationship between the wavelength of light and the common types of electromagnetic radiation. Light in the short wavelengths of 200 to 400 nm is referred to as ultraviolet (UV). Light in the longer wavelengths of 700 to 900 nm is referred to as near infrared (near IR).  
 
 <img src="images/3.png" title="" />
- &nbsp;
+
+&nbsp;
 
 Visible light falls between the wavelengths of 400 and 700 nm. All the colors visible to human eye falls under this wavelength range. Any solution that contains a compound that absorbs light in the visible region will appear colored to the eye. The solution is colored because specific wavelengths of light are absorbed as they pass through the solution. Then, the only light that the eye will perceive are the wavelengths of light that are transmitted (not absorbed).  
 
- &nbsp;
+&nbsp;
 
 
 ### Beer-Lambert Law:
@@ -115,20 +116,24 @@ Visible light falls between the wavelengths of 400 and 700 nm. All the colors vi
 
 The Beer-Lambert Law states that the amount of light absorbed is proportional to the number of molecules of absorbing substance in the light path, ie., absorption is proportional both to the concentration of the sample solution and to the length of the light path through the solution. This relationship can be expressed as follows:                                                                                                 
 
-  &nbsp;
+&nbsp;
 
 
-Absorbance, A= ε x c x l   c = concentration of the sample (in Moles/liter),
+Absorbance, A= ε x c x l
 
- &nbsp;
+&nbsp;
 
-l = length of the light path through the solution (in cm) and ε = molar extinction coefficient 
+c = concentration of the sample (in Moles/liter),
 
-  &nbsp;
+l = length of the light path through the solution (in cm) 
+
+ε = molar extinction coefficient 
+
+&nbsp;
 
 
  
 
 To determine the absolute concentration of a pure substance, a standard curve is constructed from the known concentrations and using that standard curve, the absorbance reading of the unknown concentration was determined. The determination of unknown concentration from the standard curve is done by drawing a  line parallel to the X- axis  from the point on the Y axis that corresponds to the absorbance of the unknown. This line will be made to intersect the standard curve drawn, and is extended vertically such that it meets the X-axis and the concentration of unknown is read from the   X-axis. A typical standard curve is depicted in the figure.  
 
- <img src="images/4.png" title="" />
+<img src="images/4.png" title="" />
