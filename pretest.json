@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  The amino acids which give purple colour with ninhydrin are:",
+      "answers": {
+        "a": "α-amino acids",
+        "b": "Primary amines",
+        "c": "Imino acids",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.  The principle of colorimeter is: ",
+      "answers": {
+        "a": "Lambert –hall’s law",
+        "b": "Beer-lambert’s law",
+        "c": "Hills law",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. The reduced form of ninhydrin is called:",
+      "answers": {
+        "a": "Ninhydridantin",
+        "b": "Hydrindantin",
+        "c": "Ruhemann’s compound",
+        "d": "Ammonia"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  The amino acid proline gives which colour in ninhydrin test ?",
+        "answers": {
+          "a": "Green",
+          "b": "Blue",
+          "c": "Yellow",
+          "d": "Purple"
+        },
+
+            
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}

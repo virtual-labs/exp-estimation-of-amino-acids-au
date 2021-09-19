@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  What is the complementary colour of purple ?",
+      "answers": {
+        "a": "Yellowish green",
+        "b": "Bluish yellow",
+        "c": "Green",
+        "d": "Blue"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.  Tertiary amines react with ninhydrin to produce purple colour: ",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. Is Ninhydrin a reducing agent or an oxidizing agent ?",
+      "answers": {
+        "a": "Reducing agent",
+        "b": "Oxidizing agent",
+        "c": "Both",
+        "d": "None of the above"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  What are the two basic reactions accompanying the formation of hydridantin ?",
+        "answers": {
+          "a": "Deamination & Decarboxylation",
+          "b": "Transamination & carboxylation",
+          "c": "Oxidation & reduction",
+          "d": "None of the above"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
